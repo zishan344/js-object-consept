@@ -14,7 +14,7 @@ for (const prop in student) {
 // // console.log(keys);
 // for (const prop of keys) {
 //   //   console.log(prop, student[prop]);
-// }
+// }6
 
 // const entris = Object.entries(student);
 // for (const [key, value] of entris) {
